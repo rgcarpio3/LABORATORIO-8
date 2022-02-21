@@ -104,6 +104,13 @@ f:  2500 (Hz)
 
 ![image](https://user-images.githubusercontent.com/99141342/155039350-82ce6c0d-a560-4d61-9a00-51c7d0e85aca.png)
 
+### Compare el voltaje medido por el osciloscopio y el voltaje medido por el multímetro
+
+5.38 V (Osciloscopio)
+
+5.47 V (Multímetro Digital)
+
+¿Coinciden? No ¿Por qué? Los valores del osciloscopio nos muestran el valor pico del circuito mientras que el del multímetro digital nos dicta un valor eficaz es decir Vrms. Y para ser que estos coincidan se necesita aplicar la formula:  Vp = Vrms(0.707) 
 
 ## 5) Video
 
