@@ -70,7 +70,7 @@ Dentro de la senal generada del osciloscoío, se puede observar que el valor pic
 
 ###  ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-La amplitud pico abarca un cuadro aproximándose a dos lo cual nos muestra un valor de 5,38
+La amplitud pico abarca un cuadro aproximándose a dos lo cual nos muestra un valor de 6,78 V
 
 ###  ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
@@ -86,7 +86,7 @@ Se encuentra en la posición de 0,1m
 
 ###  ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje: 5,38 (V)
+Amplitud de voltaje: 6,78 (V)
 
 Periodo: 1/f
 
@@ -110,9 +110,9 @@ f:  2500 (Hz)
 
 ### Compare el voltaje medido por el osciloscopio y el voltaje medido por el multímetro
 
-5.38 V (Osciloscopio)
+6.78 V (Osciloscopio)
 
-5.47 V (Multímetro Digital)
+4.83V (Multímetro Digital)
 
 ¿Coinciden? No ¿Por qué? Los valores del osciloscopio nos muestran el valor pico del circuito mientras que el del multímetro digital nos dicta un valor eficaz es decir Vrms. Y para ser que estos coincidan se necesita aplicar la formula:  Vrms = Vp(0.707).
 
