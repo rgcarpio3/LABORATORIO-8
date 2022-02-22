@@ -118,6 +118,8 @@ f:  2500 (Hz)
 
 ## 5) Video
 
+https://youtu.be/bg31WO6scB4
+
 ## 6) Conclusiones
 
 - 
