@@ -4,12 +4,15 @@
 
 ### 1.1) Objetivo General
 
-Describir las características de una onda senoidal, mediante la lectura del voltaje variable en un osciloscopio, para poder estudiar este tipo de ondas dentro de circuitos eléctricos
+Analizar las ondas sinusoidales, mediante el uso de instrumentos de lectura de voltaje, para realizar el estudio dentro de circuitos eléctricos.
 
 ### 1.2) Objetivos Específicos
 
-- Determinar el valor de la amplitud del voltaje leído por el osciloscopio.
-- Determinar los valores de frecuencia 
+- Determinar el voltaje pico de una onda sinuoidal en la resistencia de carga, mediante el uso de un osciloscopio.
+
+- Determinar el voltaje efectivo de una onda sinusoidal en la resistencia de carga, mediante el uso de un multímetr.
+
+- Determinar la frecuaencia de la señal de salida, para obtener un mejor análisis de la onda sinusoidal.
 
 ## 2) Marco Teórico
 
@@ -57,12 +60,15 @@ El valor promedio es el área total debajo de la curva de medio ciclo dividida e
 
 3. Se conecta el osciloscopio a la carga RL. Observar la señal que aparece en el osciloscopio
 
-![Simulación 1](https://user-images.githubusercontent.com/99141342/155038278-ee185f44-9c59-447a-b3e3-415c0f1b8c7d.jpeg)
+![Simulación 1](https://user-images.githubusercontent.com/99141342/155048759-9b2bb902-e12c-42ff-a094-6e0a0fa5db5e.jpeg)
 
-![Simulación 2](https://user-images.githubusercontent.com/99141342/155038283-0ad5fe1c-086b-4425-b9ea-30afef93abee.jpeg)
+![Simulación 2](https://user-images.githubusercontent.com/99141342/155048769-4ebf3b37-8a43-47ba-b8b7-3cebe2473aa9.jpeg)
+
 
 
 ## 4) Análisis de Resultados y Respuestas a Interrogantes
+
+Dentro de la senal generada del osciloscoío, se puede observar que el valor pico tiene un valor aproximado de 6.78V, que es el valor correspondiente cuando se aplica la ley de Ohm. Así mismo, en la lectura de del voltaje efectivo, se muestra un voltaje de 4.83 V, que es un valor menor al voltaje pico medido por el osciloscopio.
 
 ###  ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
@@ -110,11 +116,13 @@ f:  2500 (Hz)
 
 5.47 V (Multímetro Digital)
 
-¿Coinciden? No ¿Por qué? Los valores del osciloscopio nos muestran el valor pico del circuito mientras que el del multímetro digital nos dicta un valor eficaz es decir Vrms. Y para ser que estos coincidan se necesita aplicar la formula:  Vp = Vrms(0.707) 
+¿Coinciden? No ¿Por qué? Los valores del osciloscopio nos muestran el valor pico del circuito mientras que el del multímetro digital nos dicta un valor eficaz es decir Vrms. Y para ser que estos coincidan se necesita aplicar la formula:  Vrms = Vp(0.707).
 
 ## 5) Video
 
 ## 6) Conclusiones
+
+- 
 
 ## 7) Bibliografía
 
