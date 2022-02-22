@@ -60,8 +60,6 @@ El valor promedio es el área total debajo de la curva de medio ciclo dividida e
 
 3. Se conecta el osciloscopio a la carga RL. Observar la señal que aparece en el osciloscopio
 
-![Simulación 1](https://user-images.githubusercontent.com/99141342/155048759-9b2bb902-e12c-42ff-a094-6e0a0fa5db5e.jpeg)
-
 ![Simulación 2](https://user-images.githubusercontent.com/99141342/155048769-4ebf3b37-8a43-47ba-b8b7-3cebe2473aa9.jpeg)
 
 
@@ -106,9 +104,9 @@ f:  2500 (Hz)
 
 ω: 2πf (rad/s) = 2π(2500) (rad/s) = 15707,96 (rad/s)
 
-### Con el multímetro digital mida el voltaje de salida en RL: 5,47 V
+### Con el multímetro digital mida el voltaje de salida en RL: 4.83 V 
 
-![image](https://user-images.githubusercontent.com/99141342/155039350-82ce6c0d-a560-4d61-9a00-51c7d0e85aca.png)
+![Simulación 1](https://user-images.githubusercontent.com/99141342/155048759-9b2bb902-e12c-42ff-a094-6e0a0fa5db5e.jpeg)
 
 ### Compare el voltaje medido por el osciloscopio y el voltaje medido por el multímetro
 
