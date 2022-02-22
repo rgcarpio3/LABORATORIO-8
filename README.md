@@ -49,6 +49,10 @@ El valor promedio es el área total debajo de la curva de medio ciclo dividida e
 
 ![FIGURA 1 MARCO](https://user-images.githubusercontent.com/99141342/155038346-ce9e6f5e-b4d0-4c0a-84be-0633a94c0fef.PNG)
 
+### MAPA CONCEPTUAL
+
+![Untitled](https://user-images.githubusercontent.com/99141342/155064282-d2bc79ee-d1b7-457b-b0a8-6be76595d6dd.jpg)
+
 
 ## 3) Explicación del Procedimiento
 
