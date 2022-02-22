@@ -16,7 +16,7 @@ Analizar las ondas sinusoidales, mediante el uso de instrumentos de lectura de v
 
 ## 2) Marco Teórico
 
-### ONDA SENOIDAL
+### ONDA SINUSOIDAL
 
 Las ondas senoidales son ondas repetitivas a través del tiempo, y sirven para describir fenómenos naturales  y señales variables en el tiempo, tal como el voltaje que distribuyen las empresas que proveen energía, y el voltaje que llega a los hogares.
 
