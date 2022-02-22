@@ -122,7 +122,11 @@ https://youtu.be/bg31WO6scB4
 
 ## 6) Conclusiones
 
-- 
+- El valor pico medido en el osciloscopio indica que el voltaje se calcula mediante por la ley de Ohm, por lo que se  induce que las ondas sinusoidales también cumplen con la ley de Ohm.
+
+- El voltaje efectivo cumple con la aplicación de la fórmula descrita, a partir del valor pico obtenido por el osciloscopio.
+
+- La frecuencia calculada en la onda sinusoidal no influye en el valor de voltaje en la resistencia de carga.
 
 ## 7) Bibliografía
 
