@@ -78,7 +78,7 @@ La amplitud pico abarca un cuadro aproximándose a dos lo cual nos muestra un va
 
 ###  ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-Se encuentra en la posición de 3
+Se encuentra en la posición de 3, representa la cantidad de voltios por cada cuadro.
 
 ###  ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
@@ -86,7 +86,7 @@ Un ciclo completo mostrado en el osciloscopio abarca cuatro cuadros.
 
 ### ¿En qué valor está posicionada la perilla TIME/DIV?
 
-Se encuentra en la posición de 0,1m
+Se encuentra en la posición de 0.1m, que indica 0.1m segundos por cada cuadro
 
 ###  ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
